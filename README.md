@@ -31,5 +31,5 @@ Paraflow is a modern, fast, and sleek AI-powered rephrasing tool built with **Fa
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/paraflow-rephraser.git
-cd paraflow-rephraser
+git clone https://github.com/codevader01/ParaFlow-Repharser.git
+cd ParaFlow-Repharser
