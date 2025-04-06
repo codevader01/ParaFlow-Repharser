@@ -2,7 +2,7 @@
 
 Paraflow is a modern, fast, and sleek AI-powered rephrasing tool built with **FastAPI** and **Transformers**, integrated into a clean browser extension UI. Whether you're a student, writer, or professional – Paraflow helps you rewrite sentences with clarity and precision using cutting-edge language models.
 
-![Paraflow Screenshot](logo.png)
+![Paraflow Screenshot](assests/logo[1].png)
 
 ---
 
