@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    background-image: url("background.png");
+    
     background-color: #202123;
     color: #ECECF1;
     display: flex;
@@ -39,6 +39,22 @@ body {
     font-weight: 700;
     color: #10A37F;
 }
+/* .neon-border {
+
+    color: #fff;
+    background: #111;
+    border: 2px solid #10A37F;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    box-shadow:
+      0 0 5px #0ff,
+      0 0 10px #0ff,
+      0 0 20px #0ff,
+      0 0 40px #0ff;
+  }
+   */
 .input-box, .output-box {
     background-color: #40414F;
     color: #ECECF1;
